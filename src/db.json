@@ -2542,9 +2542,5 @@
             "content": ["10", "30", "40"]
         }
     ],
-    "musiccache": [
-        {
-            "id": "0"
-        }
-    ]
+    "musiccache": []
 }
