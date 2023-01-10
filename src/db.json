@@ -2500,9 +2500,16 @@
             "musicUploadedAt": "2",
             "lyrics": ""
         }
-
     ],
     "comments": [
+        {
+            "uuid": "2490-1290-4",
+            "title": "title",
+            "content": "content",
+            "createdAt": "219403030",
+            "musicUuid": "142940129043"
+        },
+
         {
             "uuid": "2490-1290-4",
             "title": "title",
@@ -2513,9 +2520,16 @@
     ],
     "playlists": [
         {
-            "uuid": "1-0490219444",
-            "title": "title",
-            "content": ["142940129043", "142940129043"]
+            "id": "1",
+            "uuid": "1",
+            "title": "첫번째 플레이리스트",
+            "content": ["1", "2", "3"]
+        },
+        {
+            "id": "2",
+            "uuid": "2",
+            "title": "두번째 플레이리스트",
+            "content": ["2", "3", "4"]
         }
     ]
 }
