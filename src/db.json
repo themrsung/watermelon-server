@@ -2509,6 +2509,7 @@
             "uuid": "2490-1290-4",
             "title": "코멘트",
             "content": "플리 1에 달린 댓글입니다",
+            "createdBy": "유승민",
             "createdAt": "219403030",
             "playlistUuid": "1"
         },
@@ -2518,6 +2519,7 @@
             "uuid": "2490-1290-40",
             "title": "코멘트",
             "content": "플리 2에 달린 댓글입니다.",
+            "createdBy": "유승민",
             "createdAt": "219403030",
             "playlistUuid": "2"
         },
@@ -2526,6 +2528,7 @@
             "uuid": "2490-1290-40",
             "title": "코멘트",
             "content": "플리 3에 달린 댓글입니다.",
+            "createdBy": "유승민",
             "createdAt": "219403030",
             "playlistUuid": "3"
         }
